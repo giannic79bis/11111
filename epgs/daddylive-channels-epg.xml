@@ -13079,58 +13079,6 @@
     <icon src="https://tv.boxbg.net/img/logos/5.jpg" />
     <url>http://www.tv.boxbg.net</url>
   </channel>
-  <programme start="20260909010000 +0300" stop="20260909023000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Колоездене: Обиколка на Испания, етап 16, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909023000 +0300" stop="20260909050000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Снукър: Инглиш оупън, първи кръг</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909050000 +0300" stop="20260909070000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Колоездене: Обиколка на Испания, етап 16, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909070000 +0300" stop="20260909074500 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909074500 +0300" stop="20260909083000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909083000 +0300" stop="20260909093000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909093000 +0300" stop="20260909120000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Колоездене: Обиколка на Испания, етап 16, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909120000 +0300" stop="20260909140000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Снукър: Инглиш оупън, първи кръг</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909140000 +0300" stop="20260909150000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909150000 +0300" stop="20260909190000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Снукър: Инглиш оупън, втори кръг</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909190000 +0300" stop="20260909200000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Маунтинбайк: Световен шампионат във Вал ди Соле, олимпийско крос кънтри, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909200000 +0300" stop="20260909210000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Колоездене: Обиколка на Испания, етап 17, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909210000 +0300" stop="20260910010000 +0300" channel="Eurosport.2.bg">
-    <title lang="bg">Снукър: Инглиш оупън, втори кръг</title>
-    <category lang="bg">Спорт</category>
-  </programme>
   <programme start="20260910010000 +0300" stop="20260910023000 +0300" channel="Eurosport.2.bg">
     <title lang="bg">Колоездене: Обиколка на Испания, етап 17, мъже</title>
     <category lang="bg">Спорт</category>
@@ -13239,58 +13187,6 @@
     <title lang="bg">Снукър: Инглиш оупън, четвъртфинал</title>
     <category lang="bg">Спорт</category>
   </programme>
-  <programme start="20260909010000 +0300" stop="20260909014500 +0300" channel="Eurosport.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909014500 +0300" stop="20260909040000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909040000 +0300" stop="20260909070000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909070000 +0300" stop="20260909093000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Колоездене: Обиколка на Испания, етап 16, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909093000 +0300" stop="20260909103000 +0300" channel="Eurosport.bg">
-    <title lang="bg">NFL: Корави схватки</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909103000 +0300" stop="20260909113000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909113000 +0300" stop="20260909133000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Конен спорт: Световен тур на шампионите във Валкенсваард, прескачане на препятствия</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909133000 +0300" stop="20260909143000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Автомобилизъм: 6 часа на САЩ, Световен шампионат, обзор</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909143000 +0300" stop="20260909154500 +0300" channel="Eurosport.bg">
-    <title lang="bg">Колоездене: Обиколка на Испания, етап 16, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909154500 +0300" stop="20260909184500 +0300" channel="Eurosport.bg">
-    <title lang="bg">Колоездене: Обиколка на Испания, етап 17, мъже</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909184500 +0300" stop="20260909203000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909203000 +0300" stop="20260909223000 +0300" channel="Eurosport.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909223000 +0300" stop="20260910014500 +0300" channel="Eurosport.bg">
-    <title lang="bg">Тенис: Открито първенство на САЩ</title>
-    <category lang="bg">Спорт</category>
-  </programme>
   <programme start="20260910014500 +0300" stop="20260910023000 +0300" channel="Eurosport.bg">
     <title lang="bg">Тенис: Открито първенство на САЩ</title>
     <category lang="bg">Спорт</category>
@@ -13394,111 +13290,6 @@
   <programme start="20260912013000 +0300" stop="20260912050000 +0300" channel="Eurosport.bg">
     <title lang="bg">Тенис: Открито първенство на САЩ</title>
     <category lang="bg">Спорт</category>
-  </programme>
-  <programme start="20260909001500 +0300" stop="20260909012000 +0300" channel="bTV.bg">
-    <title lang="bg">Смъртоносно оръжие</title>
-    <desc lang="bg">сериал, с.3, еп.9.</desc>
-    <category lang="bg">Сериал</category>
-    <icon src="https://tv.boxbg.net/img/series/posters/869.jpg" />
-    <country lang="bg">САЩ</country>
-    <star-rating system="Imdb">
-      <value>7.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20260909012000 +0300" stop="20260909021000 +0300" channel="bTV.bg">
-    <title lang="bg">От местопрестъплението</title>
-    <desc lang="bg">сериал, с.6, еп.16.</desc>
-    <category lang="bg">Сериал</category>
-    <icon src="https://tv.boxbg.net/img/series/posters/42.jpg" />
-    <star-rating system="Imdb">
-      <value>7.6</value>
-    </star-rating>
-  </programme>
-  <programme start="20260909021000 +0300" stop="20260909025000 +0300" channel="bTV.bg">
-    <title lang="bg">Двама мъже и половина</title>
-    <desc lang="bg">сериал, с.12, еп.13.</desc>
-    <category lang="bg">Сериал</category>
-    <icon src="https://tv.boxbg.net/img/series/posters/25.jpg" />
-    <country lang="bg">САЩ</country>
-    <star-rating system="Imdb">
-      <value>7.3</value>
-    </star-rating>
-  </programme>
-  <programme start="20260909025000 +0300" stop="20260909045000 +0300" channel="bTV.bg">
-    <title lang="bg">Преди обед</title>
-    <desc lang="bg">токшоу с Петър Дочев, Оля Малинова, Яна Донева и Екатерина Лазаревска.</desc>
-  </programme>
-  <programme start="20260909045000 +0300" stop="20260909052000 +0300" channel="bTV.bg">
-    <title lang="bg">Богатствата на България</title>
-    <desc lang="bg">документална поредица.</desc>
-    <category lang="bg">Научно</category>
-  </programme>
-  <programme start="20260909052000 +0300" stop="20260909055500 +0300" channel="bTV.bg">
-    <title lang="bg">Лице в лице</title>
-    <desc lang="bg">публицистично предаване с Цветанка Ризова.</desc>
-  </programme>
-  <programme start="20260909055500 +0300" stop="20260909093000 +0300" channel="bTV.bg">
-    <title lang="bg">Тази сутрин</title>
-    <desc lang="bg">сутрешен блок с Богомил Грозев и Юлия Манолова.</desc>
-  </programme>
-  <programme start="20260909093000 +0300" stop="20260909120000 +0300" channel="bTV.bg">
-    <title lang="bg">Преди обед</title>
-    <desc lang="bg">токшоу с Петър Дочев, Оля Малинова, Яна Донева и Екатерина Лазаревска.</desc>
-  </programme>
-  <programme start="20260909120000 +0300" stop="20260909123000 +0300" channel="bTV.bg">
-    <title lang="bg">bTV Новините – обедна емисия -</title>
-    <category lang="bg">Новини</category>
-  </programme>
-  <programme start="20260909123000 +0300" stop="20260909133000 +0300" channel="bTV.bg">
-    <title lang="bg">Комиците и приятели</title>
-    <desc lang="bg">комедийно шоу.</desc>
-  </programme>
-  <programme start="20260909133000 +0300" stop="20260909143000 +0300" channel="bTV.bg">
-    <title lang="bg">Завинаги с теб</title>
-    <desc lang="bg">сериал, с.3, еп.21.</desc>
-    <category lang="bg">Сериал</category>
-  </programme>
-  <programme start="20260909143000 +0300" stop="20260909160000 +0300" channel="bTV.bg">
-    <title lang="bg">Вражда</title>
-    <desc lang="bg">сериал, с.2, еп.134.</desc>
-    <category lang="bg">Сериал</category>
-  </programme>
-  <programme start="20260909160000 +0300" stop="20260909170000 +0300" channel="bTV.bg">
-    <title lang="bg">Доброта</title>
-    <desc lang="bg">сериал, еп.62.</desc>
-    <category lang="bg">Сериал</category>
-  </programme>
-  <programme start="20260909170000 +0300" stop="20260909172000 +0300" channel="bTV.bg">
-    <title lang="bg">bTV Новините -</title>
-    <category lang="bg">Новини</category>
-  </programme>
-  <programme start="20260909172000 +0300" stop="20260909180000 +0300" channel="bTV.bg">
-    <title lang="bg">Лице в лице</title>
-    <desc lang="bg">публицистично предаване с Цветанка Ризова.</desc>
-  </programme>
-  <programme start="20260909180000 +0300" stop="20260909190000 +0300" channel="bTV.bg">
-    <title lang="bg">Стани богат</title>
-    <desc lang="bg">телевизионна игра с Ники Кънчев.</desc>
-  </programme>
-  <programme start="20260909190000 +0300" stop="20260909195000 +0300" channel="bTV.bg">
-    <title lang="bg">bTV Новините – централна емисия -</title>
-    <category lang="bg">Новини</category>
-  </programme>
-  <programme start="20260909195000 +0300" stop="20260909200000 +0300" channel="bTV.bg">
-    <title lang="bg">Интервюто на деня</title>
-    <desc lang="bg">със Златимир Йочев.</desc>
-  </programme>
-  <programme start="20260909200000 +0300" stop="20260909220000 +0300" channel="bTV.bg">
-    <title lang="bg">Фермата: Кръвта вода не става</title>
-    <desc lang="bg">риалити шоу с Краси Радков, Станислава Генчева, Тото и Кристин Йотова, с.10.</desc>
-  </programme>
-  <programme start="20260909220000 +0300" stop="20260909234000 +0300" channel="bTV.bg">
-    <title lang="bg">Ергенът: Любов в рая</title>
-    <desc lang="bg">романтично риалити с Райна Караянева, с.2.</desc>
-  </programme>
-  <programme start="20260909234000 +0300" stop="20260910001500 +0300" channel="bTV.bg">
-    <title lang="bg">bTV Новините – късна емисия -</title>
-    <category lang="bg">Новини</category>
   </programme>
   <programme start="20260910001500 +0300" stop="20260910012000 +0300" channel="bTV.bg">
     <title lang="bg">Смъртоносно оръжие</title>
@@ -13777,6 +13568,84 @@
   <programme start="20260912200000 +0300" stop="20260912220000 +0300" channel="bTV.bg">
     <title lang="bg">Фермата: Кръвта вода не става</title>
     <desc lang="bg">риалити шоу с Краси Радков, Станислава Генчева, Тото и Кристин Йотова, с.10.</desc>
+  </programme>
+  <programme start="20260912220000 +0300" stop="20260913015000 +0300" channel="bTV.bg">
+    <title lang="bg">Ергенът: Любов в рая</title>
+    <desc lang="bg">романтично риалити с Райна Караянева, с.2.</desc>
+  </programme>
+  <programme start="20260913015000 +0300" stop="20260913040000 +0300" channel="bTV.bg">
+    <title lang="bg">– Европейско първенство по волейбол 2026 (мъже): България – Украйна /п./ -</title>
+  </programme>
+  <programme start="20260913040000 +0300" stop="20260913052000 +0300" channel="bTV.bg">
+    <title lang="bg">От местопрестъплението</title>
+    <desc lang="bg">сериал, с.6, еп.15.</desc>
+    <category lang="bg">Сериал</category>
+    <icon src="https://tv.boxbg.net/img/series/posters/42.jpg" />
+    <star-rating system="Imdb">
+      <value>7.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20260913052000 +0300" stop="20260913060000 +0300" channel="bTV.bg">
+    <title lang="bg">Вкусът на България</title>
+    <desc lang="bg">кулинарна поредица с Мария Жекова.</desc>
+  </programme>
+  <programme start="20260913060000 +0300" stop="20260913063000 +0300" channel="bTV.bg">
+    <title lang="bg">Светът на здравето</title>
+    <desc lang="bg">здравно предаване с д-р Неделя Щонова.</desc>
+  </programme>
+  <programme start="20260913063000 +0300" stop="20260913073000 +0300" channel="bTV.bg">
+    <title lang="bg">Убийства в рая</title>
+    <desc lang="bg">сериал, с.9, еп.8.</desc>
+    <category lang="bg">Сериал</category>
+    <icon src="https://tv.boxbg.net/img/series/posters/298.jpg" />
+    <country lang="bg">us</country>
+    <star-rating system="Imdb">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20260913073000 +0300" stop="20260913110000 +0300" channel="bTV.bg">
+    <title lang="bg">Тази събота и неделя</title>
+    <desc lang="bg">уикенд блок с Митьо Маринов.</desc>
+  </programme>
+  <programme start="20260913110000 +0300" stop="20260913113000 +0300" channel="bTV.bg">
+    <title lang="bg">Богатствата на България</title>
+    <desc lang="bg">документална поредица.</desc>
+    <category lang="bg">Научно</category>
+  </programme>
+  <programme start="20260913113000 +0300" stop="20260913120000 +0300" channel="bTV.bg">
+    <title lang="bg">Светът на здравето</title>
+    <desc lang="bg">здравно предаване с д-р Неделя Щонова.</desc>
+  </programme>
+  <programme start="20260913120000 +0300" stop="20260913123000 +0300" channel="bTV.bg">
+    <title lang="bg">bTV Новините – обедна емисия -</title>
+    <category lang="bg">Новини</category>
+  </programme>
+  <programme start="20260913123000 +0300" stop="20260913143000 +0300" channel="bTV.bg">
+    <title lang="bg">Корабът на мечтите: Япония</title>
+    <desc lang="bg">драма, романтичен (Германия, 2019 г.), режисьор: Стефан Бартман, в ролите: Саша Хен, Барбара Вусов, Ник Вилдер, Харалд Шмит, Джоана Кланте, Пиере Кивит, Агнес Кийоми Декер, Тобиас ван Дикен, Гьоц Ото, Яна Мюнстер, София Мюнстер и др.</desc>
+    <category lang="bg">Филм</category>
+  </programme>
+  <programme start="20260913143000 +0300" stop="20260913163000 +0300" channel="bTV.bg">
+    <title lang="bg">Само 30 дни до края</title>
+    <desc lang="bg">комедия, екшън, криминален (Франция, 2020 г.), режисьор: Тарек Будали, в ролите: Тарек Будали, Филип Лашо, Жюлиен Арути, Ванеса Гид, Хосе Гарсия, Мари-Ан Шазел, Рим Кериси, Никола Мари, Ан-Солен Хате, Филип Дюкейн и др.</desc>
+    <category lang="bg">Филм</category>
+  </programme>
+  <programme start="20260913163000 +0300" stop="20260913190000 +0300" channel="bTV.bg">
+    <title lang="bg">120 минути</title>
+    <desc lang="bg">публицистично предаване със Светослав Иванов.</desc>
+  </programme>
+  <programme start="20260913190000 +0300" stop="20260913194000 +0300" channel="bTV.bg">
+    <title lang="bg">bTV Новините – централна емисия -</title>
+    <category lang="bg">Новини</category>
+  </programme>
+  <programme start="20260913194000 +0300" stop="20260913200000 +0300" channel="bTV.bg">
+    <title lang="bg">Защо?</title>
+    <desc lang="bg">публицистично предаване с Жени Марчева.</desc>
+  </programme>
+  <programme start="20260913200000 +0300" stop="20260913222000 +0300" channel="bTV.bg">
+    <title lang="bg">Гласът на България</title>
+    <desc lang="bg">музикално шоу с Владимир Зомбори и Боряна Братоева, с.12.</desc>
+    <category lang="bg">Музикално</category>
   </programme>
   <channel id="ESPN.br">
     <icon src="https://www.clarotvmais.com.br/img/channels/espn.png" />
@@ -180385,13 +180254,13 @@ Słynnego pruszkowskiego bossa Andrzeja Z., pseudonim Słowik, poszukiwała spec
   <programme start="20260910210000 +0300" stop="20260910213000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Lens - Lorient</title>
   </programme>
-  <programme start="20260910213000 +0300" stop="20260910220000 +0300" channel="Beinsports.4.tr">
+  <programme start="20260910213000 +0300" stop="20260910221000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Nice - Le Mans</title>
   </programme>
-  <programme start="20260910220000 +0300" stop="20260910220500 +0300" channel="Beinsports.4.tr">
+  <programme start="20260910221000 +0300" stop="20260910221500 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Maç Önü</title>
   </programme>
-  <programme start="20260910220500 +0300" stop="20260911054500 +0300" channel="Beinsports.4.tr">
+  <programme start="20260910221500 +0300" stop="20260911054500 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Estrela - Braga</title>
   </programme>
   <programme start="20260911054500 +0300" stop="20260911060000 +0300" channel="Beinsports.4.tr">
@@ -180547,8 +180416,14 @@ Słynnego pruszkowskiego bossa Andrzeja Z., pseudonim Słowik, poszukiwała spec
   <programme start="20260912185500 +0300" stop="20260912190000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Yarış Başlıyor</title>
   </programme>
-  <programme start="20260912190000 +0300" stop="20260912213900 +0300" channel="Beinsports.4.tr">
+  <programme start="20260912190000 +0300" stop="20260912200000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Formula 3 İspanya</title>
+  </programme>
+  <programme start="20260912200000 +0300" stop="20260912201500 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Formula 1 Hollanda</title>
+  </programme>
+  <programme start="20260912201500 +0300" stop="20260912213900 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Formula 2 İspanya</title>
   </programme>
   <programme start="20260912213900 +0300" stop="20260912214500 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Maç Önü</title>
@@ -180568,14 +180443,35 @@ Słynnego pruszkowskiego bossa Andrzeja Z., pseudonim Słowik, poszukiwała spec
   <programme start="20260913122500 +0300" stop="20260913134000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Formula 2 İspanya</title>
   </programme>
-  <programme start="20260913134000 +0300" stop="20260913155000 +0300" channel="Beinsports.4.tr">
+  <programme start="20260913134000 +0300" stop="20260913151500 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Start Line</title>
+  </programme>
+  <programme start="20260913151500 +0300" stop="20260913153000 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Porsche Sixt Carrera Cup</title>
+  </programme>
+  <programme start="20260913153000 +0300" stop="20260913155000 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Formula 1 İtalya GP</title>
   </programme>
   <programme start="20260913155000 +0300" stop="20260913160000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Yarış Başlıyor</title>
   </programme>
   <programme start="20260913160000 +0300" stop="20260913181000 +0300" channel="Beinsports.4.tr">
     <title lang="tr">Formula 1 İspanya GP</title>
+  </programme>
+  <programme start="20260913181000 +0300" stop="20260913193000 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Finish Line</title>
+  </programme>
+  <programme start="20260913193000 +0300" stop="20260913194500 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Adac GT Masters Geniş Özet</title>
+  </programme>
+  <programme start="20260913194500 +0300" stop="20260913210000 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Formula 2 İspanya</title>
+  </programme>
+  <programme start="20260913210000 +0300" stop="20260913224500 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Lille - Troyes</title>
+  </programme>
+  <programme start="20260913224500 +0300" stop="20260913234500 +0300" channel="Beinsports.4.tr">
+    <title lang="tr">Formula 3 İspanya</title>
   </programme>
   <channel id="5.USA.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" />
